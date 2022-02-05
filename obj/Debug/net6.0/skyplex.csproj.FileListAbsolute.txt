@@ -1,0 +1,15 @@
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\skyplex.exe
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\skyplex.deps.json
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\skyplex.runtimeconfig.json
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\skyplex.dll
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\ref\skyplex.dll
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\bin\Debug\net6.0\skyplex.pdb
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.csproj.AssemblyReference.cache
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.AssemblyInfoInputs.cache
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.AssemblyInfo.cs
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.dll
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\ref\skyplex.dll
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.pdb
+C:\Users\adria\Documents\meus projetos\C# learning\skyplex\obj\Debug\net6.0\skyplex.genruntimeconfig.cache
